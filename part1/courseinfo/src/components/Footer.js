@@ -3,7 +3,7 @@ import React from 'react'
 const Footer = ({ totalExercies }) => {
   return (
     <>
-      <p>Number of exercises {totalExercies}</p></>
+      <strong>total of  {totalExercies} exercises</strong></>
   )
 }
 
